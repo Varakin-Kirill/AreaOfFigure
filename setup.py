@@ -24,7 +24,7 @@ setup(
   ],
   keywords='area figures ',
   project_urls={
-    'GitHub': 'your_github'
+    'GitHub': 'https://github.com/Varakin-Kirill'
   },
   python_requires='>=3.6'
 )
